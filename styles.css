@@ -2,18 +2,27 @@
   display: flex;
   justify-content: space-around;
   align-items: flex-end;
+  padding: 7px;
+}
+
+.name-image{
+  border: 2px solid black;
+  padding: 2px;
+  margin: 5px;
+  display: flex;
+  justify-content: space-around;
+  border-radius: 20px;
 }
 
 p.name{
   color: #1e3d59;
-  font-size: 46px;
-  margin-left: 10%;
+  font-size: 35px;
+  margin-left: 5%;
+  float: left;
 }
 
 img.image1{
   width: 200px;
   height: 200px;
   float: right;
-  margin-top: -7%;
-  margin-right: 20%;
 }
