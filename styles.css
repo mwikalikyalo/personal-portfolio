@@ -4,23 +4,26 @@
   justify-content: space-around;
   align-items: flex-end;
   padding: 7px;
+  background-color: #213035;
 }
 
 .nav-bar>a{
   text-decoration: none;
-  color: black;
+  color: #ff6e40;
   font-weight: bold;
   font-size: x-large;
   float: right;
+
 }
 
 .name-image{
-  border: 2px solid black;
+  border: 2px;
   padding: 2px;
   margin: 5px;
   display: flex;
   justify-content: space-around;
   border-radius: 20px;
+  margin-top: 10px;
 }
 
 img.mypicture{
@@ -79,14 +82,17 @@ div.magic{
   border: 10px;
   padding: 2px;
   margin: 2px;
-  float: right;
-  width: 50%;
 }
 
 button{
   background-color: #ff6e40;
   color: #f5f0e1;
   border-radius: 10px;
-  padding: 5px;
+  padding: 10px;
 }
 
+button>a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
