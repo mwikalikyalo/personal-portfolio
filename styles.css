@@ -6,6 +6,14 @@
   padding: 7px;
 }
 
+.nav-bar>a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: x-large;
+  float: right;
+}
+
 .name-image{
   border: 2px solid black;
   padding: 2px;
@@ -15,7 +23,13 @@
   border-radius: 20px;
 }
 
-p.name{
+img.mypicture{
+  clip-path: circle();
+  width: 250px;
+}
+
+
+h1.name{
   color: #1e3d59;
   margin-left: 5%;
   float: left;
@@ -36,9 +50,14 @@ img.image1{
   border-radius: 10px ;
 }
 
+#me{
+  text-decoration: underline;
+}
+
 /*projects*/
 #projects{
   text-align: center;
+  text-decoration: underline;
 }
 
 div.container{
@@ -52,6 +71,7 @@ div.check{
   border: 10px;
   padding: 2px;
   margin: 2px;
+  width: 50%;
 }
 
 div.magic{
@@ -59,6 +79,8 @@ div.magic{
   border: 10px;
   padding: 2px;
   margin: 2px;
+  float: right;
+  width: 50%;
 }
 
 button{
