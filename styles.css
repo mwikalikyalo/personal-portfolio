@@ -17,7 +17,6 @@
 
 p.name{
   color: #1e3d59;
-  font-size: 35px;
   margin-left: 5%;
   float: left;
 }
@@ -42,6 +41,30 @@ img.image1{
   text-align: center;
 }
 
-.statement{
-  text-align: center;
+div.container{
+  background-color: #f5f0e1;
+  color: #1e3d59;
+  border-radius: 5px;
 }
+
+div.check{
+  text-align: center;
+  border: 10px;
+  padding: 2px;
+  margin: 2px;
+}
+
+div.magic{
+  text-align: center;
+  border: 10px;
+  padding: 2px;
+  margin: 2px;
+}
+
+button{
+  background-color: #ff6e40;
+  color: #f5f0e1;
+  border-radius: 10px;
+  padding: 5px;
+}
+
