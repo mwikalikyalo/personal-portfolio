@@ -1,3 +1,4 @@
+/*first container*/
 .nav-bar{
   display: flex;
   justify-content: space-around;
@@ -26,3 +27,5 @@ img.image1{
   height: 200px;
   float: right;
 }
+
+/*projects*/
