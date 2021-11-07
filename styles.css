@@ -64,12 +64,20 @@ img.image1{
   color: #1e3d59;
 }
 
-div.container{
-  /*background-color: #f5f0e1;*/
+.container{
+  background-image: url(images/background1.jpg);
+  padding: 5px;
+  border: 5px;
+  margin: 5px;
+}
+
+.projects{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
   color: black;
   border-radius: 5px;
   padding: 5px;
-  background-image: url(images/background1.jpg);
   font-weight: bolder;
   text-align: center;
 }
@@ -79,6 +87,9 @@ div.check{
   padding: 2px;
   margin: 2px;
   width: 50%;
+  box-shadow: 5px 5px 5px #1e3d59;
+  background-color: #1e3d59;
+  color: #f5f0e1; 
 }
 
 div.magic{
@@ -87,6 +98,9 @@ div.magic{
   padding: 2px;
   margin: 2px;
   width: 50%;
+  box-shadow: 5px 5px 5px #1e3d59;
+  background-color: #1e3d59;
+  color: #f5f0e1;
 }
 
 button{
@@ -104,3 +118,6 @@ button>a{
 a:hover{
   color: #f5f0e1;
 }
+
+/*footer*/
+
