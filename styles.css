@@ -1,6 +1,10 @@
+/*import*/
+@import url("https://fonts.googleapis.com/css?family=Playfair Display");
+
 .everything{
   background-image: url(images/background1.jpg);
   background-repeat: no-repeat;
+  font-family: "Playfair Display";
 }
 
 /*first container*/
@@ -141,4 +145,8 @@ a:hover{
   font-weight: bolder;
 }
 
-
+#copyright{
+  text-align: center;
+  font-weight: bold;
+  margin-top: 2px;
+}
