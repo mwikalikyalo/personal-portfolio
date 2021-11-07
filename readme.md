@@ -1,15 +1,10 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# Personal Portfolio
+#### This is the landing page for my personal portfolio. {8/11/2021}
+#### By Winifred Mwikali Kyalo
 ## Description
-This is a personal portfolio for the projects I have done. It includes projects done, some information about me and ways to contact me. 
+This is a personal portfolio for the projects I have done. It includes projects done, some information about me and ways to contact me. The about me section includes a photo of me and an introductory message. The projects section contain the links to the work I have done.
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+The webpage works on a web browser so the only setup requirement is to click on the live link.
 ## Known Bugs
 None that I am aware of.
 ## Technologies Used
