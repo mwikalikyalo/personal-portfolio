@@ -4,14 +4,14 @@
 ## Description
 This is a personal portfolio for the projects I have done. It includes projects done, some information about me and ways to contact me. The about me section includes a photo of me and an introductory message. The projects section contain the links to the work I have done.
 ## Setup/Installation Requirements
-The webpage works on a web browser so the only setup requirement is to click on the live link.
+The webpage works on a web browser so the only setup requirement is to click on the live link. It can be accessed on the internet using a laptop, phone or tablet.
 ## Known Bugs
 None that I am aware of.
 ## Technologies Used
-I used HTML and CSS for the website.
+I used HTML for the web structure and CSS for styling the landing page.
 ## Support and contact details
 If any issues are spotted or have questions, ideas or concerns, contact me and or make a contribution to the code.
 ### License
 MIT License
-Copyright (c) 2021 
+### Copyright (c) 2021 
 **Winifred Mwikali Kyalo, Moringa School**
