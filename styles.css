@@ -61,17 +61,21 @@ img.image1{
 #projects{
   text-align: center;
   text-decoration: underline;
+  color: #1e3d59;
 }
 
 div.container{
-  background-color: #f5f0e1;
-  color: #1e3d59;
+  /*background-color: #f5f0e1;*/
+  color: black;
   border-radius: 5px;
+  padding: 5px;
+  background-image: url(images/background1.jpg);
+  font-weight: bolder;
+  text-align: center;
 }
 
 div.check{
-  text-align: center;
-  border: 10px;
+  border: 5px;
   padding: 2px;
   margin: 2px;
   width: 50%;
@@ -82,17 +86,21 @@ div.magic{
   border: 10px;
   padding: 2px;
   margin: 2px;
+  width: 50%;
 }
 
 button{
   background-color: #ff6e40;
-  color: #f5f0e1;
   border-radius: 10px;
   padding: 10px;
 }
 
 button>a{
   text-decoration: none;
-  color: black;
+  color: #f5f0e1;
   font-weight: bold;
+}
+
+a:hover{
+  color: #f5f0e1;
 }
